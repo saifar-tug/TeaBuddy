@@ -35,7 +35,7 @@ It runs 100% **offline** using lightweight open-source models like `gemma3:1b` v
 | [Streamlit](https://streamlit.io) | Frontend UI & chat interface |
 | [Ollama](https://ollama.com)     | Local LLM runtime             |
 | `gemma3:1b` | LLM for answering questions |
-| Python 🐍    | Everything in between        |
+| Python    | Everything in between        |
 
 ---
 
