@@ -4,31 +4,31 @@
 
 ---
 
-## 🎯 About
+## About
 
 **TeaBuddy** is a local, AI-powered chatbot built with Streamlit + Ollama that answers questions all about **matcha green tea**. From brewing tips to health benefits and caffeine content — TeaBuddy knows it all.  
 It runs 100% **offline** using lightweight open-source models like `gemma3:1b` via Ollama.
 
 ---
 
-## ✨ Features
+## Features
 
-- 🧠 **Runs Fully Locally** — No API keys or internet required
-- 💬 **Chat Interface** — Friendly Q&A with saved history
-- 🍵 **Tea Expert Mode** — Context-aware responses as a matcha specialist
-- 📂 **Save Your Chats** — Export conversations to `.txt`
-- 🧾 **Streamlit UI** — Polished and mobile-friendly
-- 🎭 **Emoji Reactions** — Feedback based on response length
+- **Runs Fully Locally** — No API keys or internet required
+- **Chat Interface** — Friendly Q&A with saved history
+- **Tea Expert Mode** — Context-aware responses as a matcha specialist
+- **Save Your Chats** — Export conversations to `.txt`
+- **Streamlit UI** — Polished and mobile-friendly
+- **Emoji Reactions** — Feedback based on response length
 
 ---
 
-## 📸 Demo
+## Demo
 
 ![TeaBuddy demo gif](demo.gif) <!-- Replace with actual gif name -->
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Tool        | Role                        |
 |-------------|-----------------------------|
@@ -39,7 +39,7 @@ It runs 100% **offline** using lightweight open-source models like `gemma3:1b` v
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 1. Clone the repo
 ```bash
