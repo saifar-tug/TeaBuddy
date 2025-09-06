@@ -43,5 +43,5 @@ It runs 100% **offline** using lightweight open-source models like `gemma3:1b` v
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/saif-tea/TeaBuddy.git
+git clone https://github.com/saifar-tug/TeaBuddy.git
 cd TeaBuddy
