@@ -3,4 +3,6 @@ __pycache__/
 *.pyc
 venv/
 dirty/
-raw_code.py
+app_v1.py
+app_v2.py
+raw_app.py
