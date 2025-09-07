@@ -1,4 +1,4 @@
-# 🍵 TeaBuddy: a Local Matcha & Healthy Drinks Assistant
+# 🍵 TeaBuddy: A Local Matcha & Healthy Drinks Assistant
 
 **TeaBuddy** is a lightweight, fully offline AI chatbot built with **Streamlit** and powered by **Ollama** + **Gemma 1B**. It's your personal tea expert. This will help you to explore matcha, compare green teas, and answer any question about healthy drinks.
 
