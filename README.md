@@ -95,7 +95,7 @@ Click **"Save chat to file"** to export your conversation as a timestamped `.txt
 
 ## My Note
 
-> As a tea lover and developer, I wanted a **minimal, local-first AI assistant** that doesn’t need a cloud API key to chat. TeaBuddy is a portfolio piece built to explore local LLMs, Streamlit UI, and fast prototyping — all within a relaxing cup of tea.
+> As a tea lover and AI enthusiast, I wanted a **minimal, local-first AI assistant** that doesn’t need a cloud API key to chat. I like the way of learning and experimenting with local LLMs, Streamlit, and quick prototyping.
 
 ---
 
@@ -119,7 +119,7 @@ Click **"Save chat to file"** to export your conversation as a timestamped `.txt
 
 ## License
 
-> This is one of the solo projects for my portfolio, feel free to explore or adapt 🍃
+> This is one of my solo projects, fell free to use or adapt.
 
 ---
 
