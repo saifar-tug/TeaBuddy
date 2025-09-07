@@ -89,7 +89,6 @@ Click **"Save chat to file"** to export your conversation as a timestamped `.txt
 - [Streamlit](https://streamlit.io/) — Python Web App Framework
 - [Ollama](https://ollama.com/) — Local LLM AI Assistant
 - `gemma:1b` — Lightweight local model (good balance of speed + size)
-- by [@saifar-tug](https://github.com/saifar-tug)
 
 ---
 
@@ -102,7 +101,7 @@ Click **"Save chat to file"** to export your conversation as a timestamped `.txt
 ## For Reviewers
 
 - built for portfolio
-- fully runnable locally (offline!)
+- fully runnable locally (offline)
 - see the demo and code
 - reach out if you would like me to walk you through the project live
 
