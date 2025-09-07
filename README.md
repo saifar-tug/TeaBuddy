@@ -19,7 +19,7 @@ Designed for **fast local interaction**, TeaBuddy runs entirely on your machine.
 
 ---
 
-## Demo
+## Chatting Demo
 
 ![TeaBuddy Demo](demo.gif)
 
