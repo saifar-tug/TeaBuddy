@@ -23,7 +23,7 @@ Designed for **fast local interaction**, TeaBuddy runs entirely on your machine.
 
 ![TeaBuddy Demo](demo.gif)
 
-> You can also [watch this 15s demo](#) or check `/demo.gif` in this repo.
+> [Watch this 38s demo](#) or check `demo.gif` in this repo.
 
 ---
 
