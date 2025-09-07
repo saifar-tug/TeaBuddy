@@ -8,13 +8,13 @@ Designed for **fast local interaction**, TeaBuddy runs entirely on your machine.
 
 ## Current Features
 
-- Natural tea chat interface (matcha, green tea, healthy drinks)
-- Runs locally using [Ollama](https://ollama.com/) (no internet needed)
+- Natural tea chat interface (matcha, green tea or any healthy drinks)
+- Runs locally using [Ollama](https://ollama.com/) (without internet)
 - Smart, themed replies + random emoji reactions
 - Chat history + export to `.txt`
 - Auto-clearing input after each question
-- Lightweight UI with clean layout (built with Streamlit)
-- Tuned system prompt to stay helpful but flexible (not just matcha!)
+- Lightweight UI with clean layout (used Streamlit)
+- Tuned system prompt to stay helpful but flexible in diffrent version (not just matcha!)
 - Works on any machine with Python + Ollama (mine is tested with Mac)
 
 ---
@@ -101,10 +101,10 @@ Click **"Save chat to file"** to export your conversation as a timestamped `.txt
 
 ## For Reviewers
 
-- Built for portfolio visibility
-- Fully runnable locally (offline!)
-- Demo available + clean code
-- Happy to walk you through the project live
+- built for portfolio
+- fully runnable locally (offline!)
+- see the demo and code
+- reach out if you would like me to walk you through the project live
 
 ---
 
@@ -112,7 +112,7 @@ Click **"Save chat to file"** to export your conversation as a timestamped `.txt
 
 - Integrate more models (like LLaMA 3 or Mistral)
 - Use embeddings + vector search for tea docs
-- Test mode (quizzes on tea knowledge)
+- Test mode (funn quizzes on tea knowledge)
 - Responsive layout for mobile use
 
 ---
